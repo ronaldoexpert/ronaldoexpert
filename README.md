@@ -1,12 +1,12 @@
-### Hi there 👋
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Analista de Sistemas e <a href=''> Sócio da Expert Informática LTDA </>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoexpert&show_icons=true&theme=radical)
 
 <!--
 **ronaldoexpert/ronaldoexpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
