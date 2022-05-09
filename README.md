@@ -1,5 +1,5 @@
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Analista de Sistemas e <a href='http://expertme.com.br/' target='#'> Sócio da Expert Informática LTDA </a>
+- 🌱 Analista de Sistemas e Sócio na <a href='http://expertme.com.br/' target='#'>Expert Informática LTDA </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoexpert&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoexpert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
